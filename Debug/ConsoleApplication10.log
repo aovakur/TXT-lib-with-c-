@@ -1,0 +1,10 @@
+﻿  ConsoleApplication10.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xstring(2432): warning C4124: использование __fastcall с проверкой стека неэффективно
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xstring(2418): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\xstring(1949): note: выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>> &std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>>::assign(const _Elem *const ,const unsigned int)"
+          with
+          [
+              _Elem=char32_t
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.12.25827\include\string(666): note: выполняется компиляция ссылки на экземпляр шаблон класс "std::basic_string<char32_t,std::char_traits<char32_t>,std::allocator<char32_t>>"
+c:\users\andrey\source\repos\consoleapplication10\consoleapplication10.cpp(47): error C4716: positionA: должна возвращать значение
